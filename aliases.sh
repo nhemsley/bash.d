@@ -11,3 +11,8 @@ then
     alias ack=ack-grep
 fi
 unset DISTRIBUTION
+
+alias serve_http="ruby -run -ehttpd . -p8000"
+
+alias clipboard='xclip -sel clip'
+
