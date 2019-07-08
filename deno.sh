@@ -1,1 +1,1 @@
-export PATH="/home/nick/.deno/bin:$PATH"
+export PATH="$HOME/.deno/bin:$PATH"
